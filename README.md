@@ -1,9 +1,7 @@
 <h1>Linux Fundamentals</h1>
 </hr>
 <h3>Ststem Monitoring Commands</h3>
-```bash
-# This looks like a terminal
-$ git clone https://github.com/nizam/project.git
-$ cd project
-$ npm install
-$ npm start
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/flask-otp-auth.git
+   cd flask-otp-auth
